@@ -1,0 +1,11 @@
+langchain
+streamlit
+langchain_community
+faiss-cpu
+transformers
+huggingface-hub
+numpy
+sounddevice
+SpeechRecognition
+langchain-core
+
